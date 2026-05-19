@@ -1,0 +1,11 @@
+valor,tempo,tipo,localizacao,classe
+100,10,online,BR,0
+2000,12,online,US,1
+50,14,fisica,BR,0
+5000,20,online,CN,1
+30,25,fisica,BR,0
+10000,30,online,RU,1
+70,35,fisica,BR,0
+3000,40,online,US,1
+20,45,fisica,BR,0
+7000,50,online,CN,1
