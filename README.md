@@ -27,7 +27,7 @@ Neste projeto, foi explorado um conjunto de dados contendo informações como va
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 - Python  
 - Pandas  
@@ -37,7 +37,7 @@ Neste projeto, foi explorado um conjunto de dados contendo informações como va
 
 ---
 
-## 🔬 Etapas do desenvolvimento
+## Etapas do desenvolvimento
 
 ###  1. Análise exploratória (EDA)
 - Visualização inicial dos dados
@@ -59,7 +59,7 @@ Foram utilizados dois modelos:
 
 ---
 
-## 📊 Avaliação do modelo
+## Avaliação do modelo
 
 Os modelos foram avaliados utilizando métricas padrão de classificação:
 
@@ -72,7 +72,7 @@ Essas métricas são essenciais em problemas de fraude, onde identificar correta
 
 ---
 
-## 📈 Resultados e insights
+## Resultados e insights
 
 Durante a análise, foi possível observar que:
 
