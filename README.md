@@ -19,7 +19,7 @@ A proposta simula um cenário comum em fintechs e sistemas bancários, onde é e
 
 ---
 
-## 🧠 Contexto do problema
+## Contexto do problema
 
 Fraudes financeiras representam um grande desafio para empresas que lidam com transações digitais.  
 
@@ -82,6 +82,6 @@ Durante a análise, foi possível observar que:
 
 ---
 
-## ⭐ Considerações finais
+##  Considerações finais
 
 Este projeto representa um passo importante na evolução prática em Python e Machine Learning, focando não apenas na implementação, mas também na organização e clareza do processo.
